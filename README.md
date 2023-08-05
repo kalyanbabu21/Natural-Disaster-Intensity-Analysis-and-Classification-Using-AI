@@ -1,4 +1,5 @@
-(https://github.com/kalyanbabu21/Natural-Disaster-Intensity-Analysis-and-Classification-Using-AI/assets/141485334/b28c6895-bfa2-4f97-bb01-ed1470f87363)# Natural Disasters Intensity Analysis and Classification using Artificial Intelligence
+
+![Upload](https://github.com/kalyanbabu21/Natural-Disaster-Intensity-Analysis-and-Classification-Using-AI/assets/141485334/9aac95b6-9c2e-44fc-b052-9294bc2049d4)
 
 Model trained in ibm cloud using Tensorflow and web-app made using flask.
 
