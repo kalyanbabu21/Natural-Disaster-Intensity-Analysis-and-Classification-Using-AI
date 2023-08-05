@@ -1,4 +1,4 @@
-![Wildfire](https://github.com/kalyanbabu21/Natural-Disaster-Intensity-Analysis-and-Classification-Using-AI/assets/141485334/37891247-3778-4081-b44f-c5d1751dd959)![Upload](https://github.com/kalyanbabu21/Natural-Disaster-Intensity-Analysis-and-Classification-Using-AI/assets/141485334/b28c6895-bfa2-4f97-bb01-ed1470f87363)# Natural Disasters Intensity Analysis and Classification using Artificial Intelligence
+(https://github.com/kalyanbabu21/Natural-Disaster-Intensity-Analysis-and-Classification-Using-AI/assets/141485334/b28c6895-bfa2-4f97-bb01-ed1470f87363)# Natural Disasters Intensity Analysis and Classification using Artificial Intelligence
 
 Model trained in ibm cloud using Tensorflow and web-app made using flask.
 
